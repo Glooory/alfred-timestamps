@@ -1,2 +1,6 @@
 # alfred-timestamps
-aflred workflow to generate timestamps
+alfred workflow to generate timestamps and copy to clipboard.
+
+![screenshot](./capture.gif)
+
+![screenshot](./capture.png)
